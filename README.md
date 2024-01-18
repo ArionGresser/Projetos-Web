@@ -9,8 +9,8 @@ Aqui vou listar os projetos feitos nos cursos de Desenvolvimento Web que estou c
 
 3. Projeto Chalé Hotel (Flex-Box): https://challehotel.netlify.app/
 
-    2.01: Neste projeto começamos a utilizar mais o conceito de Desing Responsivo.
+    → 2.01: Neste projeto começamos a utilizar mais o conceito de Desing Responsivo.
 
-    2.02: Aprofundamos um pouco mais os conhecimentos usando o CSS.
+    → 2.02: Aprofundamos um pouco mais os conhecimentos usando o CSS.
 
-    2.03: Refiz alguns dos Designs disponibilizados pelo professor para ficar autentico, porém ainda utilizei algumas imagens prontas.
+    → 2.03: Refiz alguns dos Designs disponibilizados pelo professor para ficar autentico, porém ainda utilizei algumas imagens prontas.
