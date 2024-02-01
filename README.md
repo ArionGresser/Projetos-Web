@@ -1,5 +1,9 @@
-# Projetos-Web
-Aqui vou listar os projetos feitos nos cursos de Desenvolvimento Web que estou cursando!!
+##Projetos desenvolvidos do zero:
+
+1. AnimesMax: (Em Construção)
+
+
+#Projetos dos Cursos:
 
 1. Projeto Site Universidade: https://agunes.netlify.app
    
