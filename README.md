@@ -1,9 +1,9 @@
-##Projetos desenvolvidos do zero:
+## Projetos desenvolvidos do zero:
 
 1. AnimesMax: (Em Construção)
 
 
-#Projetos dos Cursos:
+## Projetos dos Cursos:
 
 1. Projeto Site Universidade: https://agunes.netlify.app
    
